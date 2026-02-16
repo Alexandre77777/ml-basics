@@ -7,7 +7,8 @@
 
 | №   | Дата       | Ссылка на теорию                     | Ссылка на практику                  |
 |-----|------------|--------------------------------------|--------------------------------------|
-| 1   | 09.02.2025 |  [Теория №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
+| 1   | 09.02.2025 |  [Лекция №1. Основы искусственного интеллекта и машинного обучения](https://cloud.mail.ru/public/tWzT/cshD5U4nH)      |  |
+|   | |  [Практическое занятие №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
 |     |            | [Доп. Теория: NumPy для ML](https://colab.research.google.com/drive/1O3Y4aHCnw2XB4sIhPOuplWu1-OfPvMvT?usp=sharing)  | |
 |     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
 |  2  || [Теория №2. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №2. Matplotlib. Plotly.](https://u.to/FnckIg)   |
