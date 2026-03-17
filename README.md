@@ -17,7 +17,7 @@
 |  3  | | [Тема №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
 |     |            | [Доп. Теория: База по Pandas](https://colab.research.google.com/drive/11_nhB0R3RcffgImI98k-jokIxwx_Ahag?usp=sharing)  | |
 |  4  || [Тема №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
-|    |            | [Тема №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://clck.ru/3PHCUK) |
+|    |            | [Тема №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://colab.research.google.com/drive/1J71r_zp1osWMSklnnF0dx5Gpbi5d1L4v?usp=sharing) |
 |   |            | [Тема №6. Основные методы подбора оптимальных гиперпараметров](https://u.to/ufVfIQ) |  |
 |   | | [Тема №7. Линейная и логистическая регрессия](https://u.to/rwpsIQ) | [Практическая работа №5. Линейная и логистическая регрессия](https://u.to/UItYIg) |
 | 5 |  | [Тема №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
