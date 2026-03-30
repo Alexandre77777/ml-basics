@@ -19,11 +19,12 @@
 |  4  || [Тема №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
 |    |            | [Тема №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://colab.research.google.com/drive/1J71r_zp1osWMSklnnF0dx5Gpbi5d1L4v?usp=sharing) |
 |   |            | [Тема №6. Основные методы подбора оптимальных гиперпараметров](https://u.to/ufVfIQ) |  |
-|   | | [Тема №7. Линейная и логистическая регрессия](https://u.to/rwpsIQ) | [Практическая работа №5. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1UuS4oaSi4uLJmN2iPbzAPQmirHUP7_lz?usp=sharing) |
-| 5 |  | [Тема №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
+| 5 | | [Тема №7. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1hNwrKnPUvkmjiBh32iG7cwTuGrEyxfv4?usp=sharing) | [Практическая работа №5. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1UuS4oaSi4uLJmN2iPbzAPQmirHUP7_lz?usp=sharing) |
+|   |            | [Тема №7.1. Регуляризация в линейных моделях](https://colab.research.google.com/drive/1GFEc5rZ6tKu9tB-3yk-oxHzW7tBRMXRN?usp=sharing) |  |
+| 6 |  | [Тема №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
 |   |            | [Тема №9. Решающие деревья для задач регрессии](https://u.to/ypmEIQ) |  |
 |   |            | [Тема №10. Критерии останова для решающих деревьев](https://u.to/SZqEIQ) | [Практическая работа №6. Решающие деревья](https://u.to/tiJSIg) |
-| 6|| [Тема №11. Случайный лес (Random Forest)](https://u.to/AhCDIQ) | [Практическая работа №7. Случайный лес](https://u.to/vCJSIg) |
+| 7|| [Тема №11. Случайный лес (Random Forest)](https://u.to/AhCDIQ) | [Практическая работа №7. Случайный лес](https://u.to/vCJSIg) |
 | 8 | | [Тема №12. Метод Наивного Байеса](https://u.to/UxGDIQ) |  |
 |   |            | [Тема №13. Метод опорных векторов](https://u.to/AhKDIQ) | [Практическая работа №8. Применение методов машинного обучения для решения задач классификации текстов. Метод Наивного Байеса. Метод опорных векторов](https://u.to/cItYIg) |
 |   |            | [Экспорт растровых данных и применение пройденных методов машинного обучения в среде Google Earth Engine](https://u.to/nWdJIg) |  |
