@@ -7,24 +7,24 @@
 
 | №   | Дата       | Ссылка на материалы                     | Ссылка на практику                  |
 |-----|------------|--------------------------------------|--------------------------------------|
-| 1   | 09.02.2025 |  [**Лекция №0. Основы искусственного интеллекта и машинного обучения (Вводная)**](https://cloud.mail.ru/public/tWzT/cshD5U4nH)      |  |
+| 1   | 09.02.2026 |  [**Лекция №0. Основы искусственного интеллекта и машинного обучения (Вводная)**](https://cloud.mail.ru/public/tWzT/cshD5U4nH)      |  |
 |     | |  [**Лекция №1. Источники данных, методы сбора и основные этапы предобработки данных**](https://cloud.mail.ru/public/67n9/V4nuYj5Yx)      |  |
 |   | |  [Тема №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
 |     |            | [Доп. Теория: NumPy для ML](https://colab.research.google.com/drive/1O3Y4aHCnw2XB4sIhPOuplWu1-OfPvMvT?usp=sharing)  | |
 |     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
-|  2  |16.02.2025| [**Лекция №2. Принципы оценки моделей машинного обучения, проблема переобучения и недообучения**](https://cloud.mail.ru/public/9XQi/DQ9amnrr2)      |  |
+|  2  |16.02.2026| [**Лекция №2. Принципы оценки моделей машинного обучения, проблема переобучения и недообучения**](https://cloud.mail.ru/public/9XQi/DQ9amnrr2)      |  |
 |     || [Тема №2. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №2. Matplotlib. Plotly.](https://u.to/FnckIg)   |
-|  3  | | [Тема №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
+|  3  |02.03.2026| [Тема №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
 |     |            | [Доп. Теория: База по Pandas](https://colab.research.google.com/drive/11_nhB0R3RcffgImI98k-jokIxwx_Ahag?usp=sharing)  | |
-|  4  || [Тема №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
-|    |            | [Тема №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://colab.research.google.com/drive/1J71r_zp1osWMSklnnF0dx5Gpbi5d1L4v?usp=sharing) |
+|    || [Тема №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
+|  4  |16.03.2026| [Тема №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://colab.research.google.com/drive/1J71r_zp1osWMSklnnF0dx5Gpbi5d1L4v?usp=sharing) |
 |   |            | [Тема №6. Основные методы подбора оптимальных гиперпараметров](https://u.to/ufVfIQ) |  |
-| 5 | | [Тема №7. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1hNwrKnPUvkmjiBh32iG7cwTuGrEyxfv4?usp=sharing) | [Практическая работа №5. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1UuS4oaSi4uLJmN2iPbzAPQmirHUP7_lz?usp=sharing) |
+| 5 |23.03.2026| [Тема №7. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1hNwrKnPUvkmjiBh32iG7cwTuGrEyxfv4?usp=sharing) | [Практическая работа №5. Линейная и логистическая регрессия](https://colab.research.google.com/drive/1UuS4oaSi4uLJmN2iPbzAPQmirHUP7_lz?usp=sharing) |
 |   |            | [Тема №7.1. Регуляризация в линейных моделях](https://colab.research.google.com/drive/1GFEc5rZ6tKu9tB-3yk-oxHzW7tBRMXRN?usp=sharing) |  |
-| 6 |  | [Тема №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
+| 6 |30.03.2026| [Тема №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
 |   |            | [Тема №9. Решающие деревья для задач регрессии](https://u.to/ypmEIQ) |  |
 |   |            | [Тема №10. Критерии останова для решающих деревьев](https://u.to/SZqEIQ) | [Практическая работа №6. Решающие деревья](https://u.to/tiJSIg) |
-| 7|| [Тема №11. Случайный лес (Random Forest)](https://u.to/AhCDIQ) | [Практическая работа №7. Случайный лес](https://u.to/vCJSIg) |
+| 7|06.04.2026| [Тема №11. Случайный лес (Random Forest)](https://u.to/AhCDIQ) | [Практическая работа №7. Случайный лес](https://u.to/vCJSIg) |
 | 8 | | [Тема №12. Метод Наивного Байеса](https://u.to/UxGDIQ) |  |
 |   |            | [Тема №13. Метод опорных векторов](https://u.to/AhKDIQ) | [Практическая работа №8. Применение методов машинного обучения для решения задач классификации текстов. Метод Наивного Байеса. Метод опорных векторов](https://u.to/cItYIg) |
 |   |            | [Экспорт растровых данных и применение пройденных методов машинного обучения в среде Google Earth Engine](https://u.to/nWdJIg) |  |
