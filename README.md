@@ -30,7 +30,7 @@
 | 9 |20.04.2026| [Тема №14. Ансамблевые методы в машинном обучении (включая Градиентный бустинг)](https://u.to/Z0bJIQ) |  |
 |    |            | [Тема №15. Применение ансамблевых моделей для решения практических задач](https://u.to/xLbRIQ) | [Практическая работа №9. Ансамблевые методы](https://u.to/iotYIg) |
 |     |            | [Дополнительно: Градиентный спуск](https://colab.research.google.com/drive/10U5QZVqgIAP46bdj8wu_PuI0J1jugxiC?usp=sharing)  | |
-| 10|05.05.2026| [Тема №16. Формулирование гипотез и обучение ML-моделей на их основе](https://colab.research.google.com/drive/1aT36P0Jc-dIjYOx6Hh8yecFSgt-z3Fan?usp=sharing) |[Практическая работа №10. Анализ и сегментация клиентов с помощью алгоритмов кластеризации](https://colab.research.google.com/drive/1DoVQZmpOomX8TXrGmipehDiBigdXEyrX?usp=sharing) |
+| 10|05.05.2026| [Тема №16. Формулирование гипотез и обучение ML-моделей на их основе](https://colab.research.google.com/drive/1aT36P0Jc-dIjYOx6Hh8yecFSgt-z3Fan?usp=sharing) |[Практическая работа №10. Разведочный анализ, предобработка данных и обучение моделей классификации](https://colab.research.google.com/drive/1DoVQZmpOomX8TXrGmipehDiBigdXEyrX?usp=sharing) |
 | 11| | [Тема №16. Методы сокращения размерностей](https://colab.research.google.com/drive/1z3VfGF9l9r0U45KnyHC0H6NH2LlJ-mRj?usp=sharing) |[Практическая работа №10. Анализ и сегментация клиентов с помощью алгоритмов кластеризации](https://u.to/nFBlIg) |
 | || [Тема №17. Кластеризация](https://drive.google.com/file/d/1aURuWNS3AaeZ8qMkLbEscK2_eZbZUYpe/view?usp=sharing) |  |
 |   |            | [Экспорт растровых данных и применение пройденных методов машинного обучения в среде Google Earth Engine](https://u.to/nWdJIg) |  |
